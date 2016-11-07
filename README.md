@@ -25,4 +25,4 @@ npm install -g brunch
 
 ### References
 
-Built using Ken McGrady's Angular 1.x (using ES6) skeleton for Brunch
+Built using [Ken McGrady's Angular 1.x (using ES6) skeleton for Brunch](https://github.com/kmcgrady/with-angular)
