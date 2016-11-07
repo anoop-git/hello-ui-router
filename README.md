@@ -1,6 +1,7 @@
 
 ## Usage
 ```sh
+cd hello-ui-router
 npm install
 ```
 
